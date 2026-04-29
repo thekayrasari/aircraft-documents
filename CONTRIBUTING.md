@@ -6,16 +6,16 @@ Thank you for helping build this aviation document repository! Please read these
 
 ## What We Accept
 
-### ✅ Always Welcome
+### Always Welcome
 - **Public domain regulatory documents**: FAA ACs, Orders, NOTAMs, EASA CSs, AMCs, ICAO Annexes (where legally distributable)
 - **Links** to official sources (manufacturer portals, regulatory agency websites)
 - **Index improvements**: better metadata, searchable tags, corrected document info
 - **Original content**: study guides, summaries, annotations *written by you*
 
-### ⚠️ Case-by-Case
+### Case-by-Case
 - OEM documents (FCOMs, QRHs, FCTMs): please document the source and your basis for believing redistribution is acceptable (e.g., the document was published publicly by the manufacturer)
 
-### ❌ Never Submit
+### Never Submit
 - Documents you obtained under an NDA or confidentiality agreement
 - Internal airline operations manuals (SOPs, OM-A/B/C/D) unless explicitly public
 - Documents with a visible "Proprietary", "Confidential", or "Not for Distribution" marking

@@ -26,7 +26,7 @@ If you are a copyright holder (or authorized agent) and believe that content in 
 
 Submit your DMCA notice via **GitHub's official DMCA process**:
 
-> 🔗 https://support.github.com/contact/dmca
+> https://support.github.com/contact/dmca
 
 Or open a **[GitHub Issue](../../issues)** titled `DMCA Takedown Request - [Document Name]` with the information above.
 

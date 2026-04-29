@@ -18,21 +18,6 @@ A curated collection of aviation technical documents including:
 | **EASA Docs** | AMC, CS, Opinion documents | EASA (Public Domain) |
 | **AIP/Charts** | Aeronautical Information Publications | ICAO, National AIPs |
 
----
-
-## Repository Structure
-
-```
-/
-├── fcom/               # Flight Crew Operations Manuals
-│   ├── airbus/
-│   └── boeing/
-├── fctm/               # Flight Crew Training Manuals
-├── qrh/                # Quick Reference Handbooks
-├── regulatory/         # FAA, EASA, ICAO — largely public domain
-├── bulletins/          # OEM bulletins and notices
-└── index.md            # Master document index with sources
-```
 
 ---
 
