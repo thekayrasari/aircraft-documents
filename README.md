@@ -8,18 +8,7 @@ Legal Notice: This repository aggregates aviation reference documents for **educ
 
 ## About
 
-A curated collection of aviation technical documents including:
-
-| Type | Description | Example Sources |
-|------|-------------|-----------------|
-| **FCOM** | Flight Crew Operations Manual | Airbus, Boeing, Embraer |
-| **FCTM** | Flight Crew Training Manual | Airbus, Boeing |
-| **QRH** | Quick Reference Handbook | Various manufacturers |
-| **FCOM Bulletins** | Temporary revision notices | OEMs |
-| **FAA Documents** | Advisory Circulars, ACs, Orders | FAA (Public Domain) |
-| **EASA Docs** | AMC, CS, Opinion documents | EASA (Public Domain) |
-| **AIP/Charts** | Aeronautical Information Publications | ICAO, National AIPs |
-
+A curated collection of aviation technical documents including FCOM's, FCTM's QRH's and CL's.
 
 ---
 
